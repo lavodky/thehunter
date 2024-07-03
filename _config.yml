@@ -93,17 +93,17 @@ vimeo: "#"
 #
 # About Blog Author Widget
 #
-about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-  author-social-links:
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
+# about-widget:
+#  author-avatar: avatar-02.jpg
+#  author-name: John Doe
+#  author-tagline: Blog Author
+#  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
+#  author-social-links:
+#    youtube: "#"
+#    pinterest: "#"
+#    facebook: "#"
+#    twitter: "#"
+#    google-plus: "#"
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
@@ -167,61 +167,61 @@ features:
 # Portfolio Grid
 #
 #portfolio-categories:
- # [Websites, Logo, Graphic Design, Development, Video, Photography]
-#portfolio:
-  # Portfolio Item
- # - title: S<span class="thin">era</span> Style
- #   categories: [Websites, Graphic Design]
- #   image: img-01.jpg
-  #  url: "#"
+# [Websites, Logo, Graphic Design, Development, Video, Photography]
+# portfolio:
+# Portfolio Item
+# - title: S<span class="thin">era</span> Style
+#   categories: [Websites, Graphic Design]
+#   image: img-01.jpg
+#  url: "#"
 #
-  # Portfolio Item
- # - title: S<span class="thin">era</span> Style
-   # categories: [Graphic Design, Logo, Websites]
-  #  image: img-02.jpg
-   # url: "#"
+# Portfolio Item
+# - title: S<span class="thin">era</span> Style
+# categories: [Graphic Design, Logo, Websites]
+#  image: img-02.jpg
+# url: "#"
 
-  # Portfolio Item
- # - title: S<span class="thin">era</span> Style
- #   categories: [Graphic Design, Logo, Photography]
-  #  image: img-03.jpg
-  #  url: "#"
+# Portfolio Item
+# - title: S<span class="thin">era</span> Style
+#   categories: [Graphic Design, Logo, Photography]
+#  image: img-03.jpg
+#  url: "#"
 
-  # Portfolio Item
- # - title: S<span class="thin">era</span> Style
-   # categories: [Websites, Video, Photography]
-   # image: img-04.jpg
-  #  url: "#"
+# Portfolio Item
+# - title: S<span class="thin">era</span> Style
+# categories: [Websites, Video, Photography]
+# image: img-04.jpg
+#  url: "#"
 
-  # Portfolio Item
-  #- title: S<span class="thin">era</span> Style
-    #categories: [Development, Logo]
-   # image: img-05.jpg
-   # url: "#"
+# Portfolio Item
+#- title: S<span class="thin">era</span> Style
+# categories: [Development, Logo]
+# image: img-05.jpg
+# url: "#"
 
-  # Portfolio Item
-  #- title: S<span class="thin">era</span> Style
-    #categories: [Development, Video]
-    #image: img-06.jpg
-   # url: "#"
+# Portfolio Item
+#- title: S<span class="thin">era</span> Style
+# categories: [Development, Video]
+# image: img-06.jpg
+# url: "#"
 
-  # Portfolio Item
-  #- title: S<span class="thin">era</span> Style
-    #categories: [Websites, Graphic Design]
-   # image: img-07.jpg
-   # url: "#"
+# Portfolio Item
+#- title: S<span class="thin">era</span> Style
+# categories: [Websites, Graphic Design]
+# image: img-07.jpg
+# url: "#"
 
-  # Portfolio Item
- # - title: S<span class="thin">era</span> Style
-   # categories: [Websites, Video]
-   # image: img-08.jpg
-   # url: "#"
+# Portfolio Item
+# - title: S<span class="thin">era</span> Style
+# categories: [Websites, Video]
+# image: img-08.jpg
+# url: "#"
 
-  # Portfolio Item
-  #- title: S<span class="thin">era</span> Style
-    #categories: [Photography, Logo]
-   # image: img-09.jpg
-   # url: "#"
+# Portfolio Item
+#- title: S<span class="thin">era</span> Style
+# categories: [Photography, Logo]
+# image: img-09.jpg
+# url: "#"
 
 #####################################
 ##########  Core Features  ##########
@@ -290,7 +290,7 @@ testimonials:
   - name: Super Bock Group
     url: https://superbockgroup.com/
     url-text: superbockgroup.com
-    avatar: logo1.svg
+    avatar: logo1.png
     cite: Queremos expressar nossa profunda gratidão à Ascese pelo excepcional suporte em cibersegurança. Graças à sua dedicação e profissionalismo, conseguimos garantir a segurança dos nossos sistemas e a confiança dos nossos clientes. Continuaremos a contar com a Ascese para manter nossos padrões de excelência e segurança online
     logo-img: themeforest.png
 
@@ -298,7 +298,7 @@ testimonials:
   - name: Petrotec Group
     url: https://www.petrotec.eu/
     url-text: petrotec.eu
-    avatar: logo2.jpg
+    avatar: logo2.png
     cite: A Petrotec Group agradece imensamente à Ascese pelo comprometimento e eficiência na proteção de nossos dados e sistemas. A parceria com a Ascese tem sido crucial para assegurar a integridade das nossas operações tecnológicas, permitindo-nos focar em fornecer soluções inovadoras para nossos clientes
     logo-img: codecanyon.png
 
@@ -327,8 +327,8 @@ testimonials:
 #####################################
 ############### Team ################
 #####################################
-team-title: Meet Our Team
-team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+team-title: Conheça nosso time
+team-description: Nosso time é composto por profissionais altamente qualificados e dedicados. Todos os membros possuem formação em Ciência da Computação e/ou vasta experiência na área de hacking ético. 
 
 #
 # Team Members
@@ -389,13 +389,13 @@ team:
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing-title: Pricing Tables
-pricing-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+pricing-title: Tabela de preços
+pricing-description: Nossa empresa oferece uma tabela de preços clara e competitiva para todos os serviços de cibersegurança
 
 #
 # Plan Personal
 #
-plan-personal-price: $99
+plan-personal-price: a partir de 1000 EUROS 
 plan-personal-offer-1-title: 01 PSD Pack
 plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-personal-offer-2-title: 100 Support Tickets
@@ -405,7 +405,7 @@ plan-personal-url: "#"
 #
 # Plan Business
 #
-plan-business-price: $499
+plan-business-price: a partir de 10000 EUROS
 plan-business-offer-1-title: 05 PSD Pack
 plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-business-offer-2-title: 1000 Support Tickets
