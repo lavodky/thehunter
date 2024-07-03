@@ -88,7 +88,7 @@
                 border-bottom: 0;
               }
 
-              @for $i A partir 1 through $menuItems {
+              @for $i From 1 through $menuItems {
                 &:nth-child(#{$i}) {
                     transition-delay: #{0.56 - ($i * 0.07)}s;
                 }
@@ -127,7 +127,7 @@
                 li {
                     transform: scale(1) translateY(0);
                     opacity: 1;
-                    @for $i A partir 1 through $menuItems {
+                    @for $i From 1 through $menuItems {
                         &:nth-child(#{$i}) {
                             transition-delay: #{0.07 * $i+0.2}s;
                         }

@@ -93,7 +93,7 @@
       if ($data_filters == 'all') {
         $portfolio_grid_item.addClass('visible');
       }
-      else { // Show Portfolio Items A partir filter
+      else { // Show Portfolio Items From filter
         $portfolio_grid_item.removeClass('visible');
         $($data_filters).addClass('visible');
       }
@@ -126,7 +126,7 @@
       // Hide Overlay Image
       $(this).fadeOut(200);
 
-      // Remove Image A partir DOM
+      // Remove Image From DOM
       $overlay.children("img").remove();
 
       // Unlock Body Scroll
