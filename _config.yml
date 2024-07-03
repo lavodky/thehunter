@@ -93,18 +93,18 @@ vimeo: "#"
 #
 # About Blog Author Widget
 #
- about-widget:
-  author-avatar: func4.jpg
-  author-name: Luís Young
-  author-tagline: Autor
-  author-info: Pesquisador de Cyber-Segurança
-  author-social-links:
+about-widget:
+ author-avatar: func4.jpg
+ author-name: Luís Young
+ author-tagline: Autor
+ author-info: Pesquisador de Cyber-Segurança
+ author-social-links:
     youtube: "#"
     pinterest: "#"
     facebook: "#"
     twitter: "#"
     google-plus: "#"
-    github: "#"
+    
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
