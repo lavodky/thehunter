@@ -43,13 +43,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Elevando a Segurança Digital com Soluções de Penteste de Classe Mundial
+title: Sera - OnePage Multi-Purpose Theme
 # Website language
-lang: pt-BR
+lang: en-US
 # Header Title
-header-title: Proteja-se do <strong>imprevisto.</strong>
+header-title: Create the <strong>Impossible</strong>
 # Header Tagline
-headter-tagline: Soluções de Segurança e Penteste
+headter-tagline: We Always
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -57,12 +57,12 @@ headter-tagline: Soluções de Segurança e Penteste
 
 # Focus Buttons
 header-focus-button:
-  title: Proteja-se agora
+  title: Download Now
   url: https://themeforest.net/collections/6069390-sera
 
 # Secondary Buttons
 header-secondary-button:
-  title: Descubra Mais
+  title: Discover More
   url: http://themeforest.net/user/ohkimur
 
 #
@@ -93,17 +93,17 @@ vimeo: "#"
 #
 # About Blog Author Widget
 #
-# about-widget:
-#  author-avatar: avatar-02.jpg
-#  author-name: John Doe
-#  author-tagline: Blog Author
-#  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-#  author-social-links:
-#    youtube: "#"
-#    pinterest: "#"
-#    facebook: "#"
-#    twitter: "#"
-#    google-plus: "#"
+about-widget:
+  author-avatar: avatar-02.jpg
+  author-name: John Doe
+  author-tagline: Blog Author
+  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
+  author-social-links:
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
@@ -129,33 +129,33 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Bem-vindo à Ascese
-about-description: Somos especialistas em segurança de dados e pentest, dedicados a proteger seu ambiente digital contra ameaças e vulnerabilidades. Nossa equipe altamente qualificada utiliza técnicas avançadas para identificar e mitigar riscos, garantindo que suas informações estejam sempre seguras. Confie na Ascese para elevar a segurança do seu negócio a um novo patamar..
+about-title: Welcome to Sera
+about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
 
 #####################################
 #############  Features  ############
 #####################################
-features-title: Serviços 
-features-description: Protegemos seus clientes contra as ameaças digitais e a garantir a integridade dos seus dados.
+features-title: Features
+features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
 
 #
 # Features
 #
 features:
   # Feature
-  - title: Avaliação de Vulnerabilidades e Pentest
-    description: Realizamos avaliações de vulnerabilidades e testes de penetração (pentest) detalhados para identificar e corrigir falhas de segurança em suas redes, aplicativos e sistemas. Nossos especialistas simulam ataques reais para garantir que suas defesas estejam sempre à frente das ameaças.
-    icon: pe-7s-note2
+  - title: Clean & Unique Design
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-vector
 
   # Feature
-  - title: Monitoramento e Resposta a Incidentes 24/7
-    description: Oferecemos um serviço de monitoramento contínuo e resposta a incidentes, operando 24 horas por dia, 7 dias por semana. Nossa equipe de segurança está sempre alerta para detectar e responder rapidamente a qualquer atividade suspeita, minimizando o impacto de possíveis incidentes de segurança.
-    icon: pe-7s-alarm
+  - title: Professional Support
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-help2
 
   # Feature
-  - title: Treinamento em Segurança Cibernética
-    description: Capacitamos sua equipe com treinamentos em segurança cibernética personalizados, abordando as melhores práticas e técnicas de defesa. Nossos cursos abrangem desde a conscientização sobre phishing até a implementação de políticas de segurança robustas, fortalecendo a postura de segurança da sua organização.
-    icon: pe-7s-study
+  - title: Pixel Perfect
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-airplay
 
 #####################################
 ############  Portfolio  ############
@@ -226,98 +226,98 @@ portfolio:
 #####################################
 ##########  Core Features  ##########
 #####################################
-core-title: Serviços centrais 
-core-description: Nossa missão é elevar a segurança do seu ambiente digital, fornecendo soluções inovadoras e suporte contínuo para proteger o que é mais importante para você. Confie na Ascese para manter sua empresa segura e à frente das ameaças cibernéticas.
+core-title: Core Features
+core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
 
 #
 # Core Features Left
 #
 core-features-left:
   # Feature
-  - name: Gestão de Ativos
-    description: CyberSecurity Attack Surface Management (CSAM)
-    icon: pe-7s-key
+  - name: Creative
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-light
 
   # Feature
-  - name: Gerenciamento de Vulnerabilidades e Configuração
-    description: Gerenciamento, Detecção e Resposta a Vulnerabilidades
-    icon: pe-7s-shield
+  - name: Minimalism
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-drop
 
   # Feature
-  - name: Remediação de Riscos
-    description: Avaliação e Remediação Personalizada
-    icon: pe-7s-hammer
+  - name: Clean Coding
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-coffee
 
   # Feature
-  - name: Detecção e Resposta a Ameaças
-    description: Detecção e Resposta na Nuvem
-    icon: pe-7s-search
+  - name: Friendly
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-smile
 
 #
 # Core Features Right
 #
 core-features-right:
   # Feature
-  - name: Automatização de Tarefas de Segurança
-    description: Automatize tarefas de segurança
-    icon: pe-7s-config
+  - name: Branding
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-wine
 
   # Feature
-  - name: Identificação e Remediação de Vulnerabilidades
-    description: Identifique as vulnerabilidades que realmente importam
-    icon:  pe-7s-attention
+  - name: Web Design
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-monitor
 
   # Feature
-  - name: Gestão Proativa de Cargas de Trabalho
-    description: Ajude as equipes de segurança e desenvolvimento 
-    icon: pe-7s-refresh
+  - name: Graphic Design
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-crop
 
   # Feature
-  - name: Documentação e Redirecionamento de Informações
-    description: Toda atividade é documentada e relatada detalhadamente
-    icon: pe-7s-note2
+  - name: Photography
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-camera
 
 #####################################
 ########### Testimonials ############
 #####################################
-testimonials-title: Testemunhos
-testimonials-description: Testemunhos de algumas empresas que já ajudamos
+testimonials-title: Testimonials
+testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
 
 #
 # Testimonials
 #
 testimonials:
   # Client
-  - name: Super Bock Group
-    url: https://superbockgroup.com/
-    url-text: superbockgroup.com
-    avatar: logo1.png
-    cite: Queremos expressar nossa profunda gratidão à Ascese pelo excepcional suporte em cibersegurança. Graças à sua dedicação e profissionalismo, conseguimos garantir a segurança dos nossos sistemas e a confiança dos nossos clientes. Continuaremos a contar com a Ascese para manter nossos padrões de excelência e segurança online
-    logo-img: logo1.png
+  - name: Johnatan Doe
+    url: http://themeforest.net
+    url-text: ThemeForest.net
+    avatar: avatar-01.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: themeforest.png
 
   # Client
-  - name: Petrotec Group
-    url: https://www.petrotec.eu/
-    url-text: petrotec.eu
-    avatar: logo2.png
-    cite: A Petrotec Group agradece imensamente à Ascese pelo comprometimento e eficiência na proteção de nossos dados e sistemas. A parceria com a Ascese tem sido crucial para assegurar a integridade das nossas operações tecnológicas, permitindo-nos focar em fornecer soluções inovadoras para nossos clientes
+  - name: Adam Smith
+    url: http://codecanyon.net
+    url-text: CodeCanyon.net
+    avatar: avatar-02.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: codecanyon.png
 
   # Client
-  - name: Science4you
-    url: https://www.science4you.pt/
-    url-text: science4you.pt
+  - name: Irene Warner
+    url: http://videohive.net
+    url-text: VideoHive.net
     avatar: avatar-03.jpg
-    cite: Gostaríamos de agradecer à Ascese pelo excelente serviço de cibersegurança que tem nos proporcionado. A tranquilidade de saber que nossos dados e operações estão seguros nos permite continuar a inovar e oferecer brinquedos educativos de qualidade para as crianças. Obrigado, Ascese, por ser um pilar de confiança para nossa empresa
-    logo-img: logo3.png
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: videohive.png
 
   # Client
-  - name: Sanitana
-    url: https://www.sanitana.pt/pt/
-    url-text: sanitana.pt
+  - name: Richard Ryan
+    url: http://audiojungle.net
+    url-text: AudioJungle.net
     avatar: avatar-04.jpg
-    cite: Nosso sincero agradecimento à Ascese pela parceria sólida e pela proteção contínua que oferece aos nossos sistemas. A segurança proporcionada pela Ascese é fundamental para que possamos focar no desenvolvimento e na oferta de produtos de alta qualidade para os nossos clientes. Estamos confiantes de que, com a Ascese ao nosso lado, continuaremos a crescer com segurança e eficiência
-    logo-img: logo4.png
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: audiojungle.png
 
 #####################################
 ############# Our Blog ##############
@@ -328,17 +328,17 @@ blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. 
 #####################################
 ############### Team ################
 #####################################
-team-title: Conheça nosso time
-team-description: Nosso time é composto por profissionais altamente qualificados e dedicados. Todos os membros possuem formação em Ciência da Computação e/ou vasta experiência na área de hacking ético. 
+team-title: Meet Our Team
+team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #
 # Team Members
 #
 team:
   # Team Member
-  - name: João Silva
+  - name: Jack Skilton
     tagline: Graphic Designer
-    avatar: funci1.jpg
+    avatar: avatar-01.jpg
 
     # Social Links
     youtube: "#"
@@ -349,9 +349,9 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: Pedro Sousa
+  - name: James Young
     tagline: Developer
-    avatar: func2.jpg
+    avatar: avatar-02.jpg
 
     # Social Links
     youtube: "#"
@@ -362,9 +362,9 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: Tiago Ferreira
+  - name: Johnatan Doe
     tagline: Hacker
-    avatar: func3.jpg
+    avatar: avatar-04.jpg
 
     # Social Links
     youtube: "#"
@@ -375,9 +375,9 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: Luís Young
+  - name: Ecaterina Doe
     tagline: Support Expert
-    avatar: func4.jpg
+    avatar: avatar-03.jpg
 
     # Social Links
     youtube: "#"
@@ -390,13 +390,13 @@ team:
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing-title: Tabela de preços
-pricing-description: Nossa empresa oferece uma tabela de preços clara e competitiva para todos os serviços de cibersegurança
+pricing-title: Pricing Tables
+pricing-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #
 # Plan Personal
 #
-plan-personal-price: a partir de 1000 EUROS 
+plan-personal-price: $99
 plan-personal-offer-1-title: 01 PSD Pack
 plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-personal-offer-2-title: 100 Support Tickets
@@ -406,7 +406,7 @@ plan-personal-url: "#"
 #
 # Plan Business
 #
-plan-business-price: a partir de 10000 EUROS
+plan-business-price: $499
 plan-business-offer-1-title: 05 PSD Pack
 plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-business-offer-2-title: 1000 Support Tickets
@@ -433,6 +433,6 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ascese
+footer-copyright-text: Ohkimur
 footer-copyright-url: https://github.com/ohkimur
-footer-copyright-year: 2024
+footer-copyright-year: 2021
