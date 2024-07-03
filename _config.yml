@@ -176,25 +176,25 @@ portfolio:
   # Portfolio Item
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: <span class="thin">.</span> 1️⃣
     categories: [broken-authentication]
     image: port3.jpg
     url: "https://www.loginradius.com/blog/identity/what-is-broken-authentication/"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: <span class="thin">.</span> 2️⃣
     categories: [cross-site-scripting]
     image: port4.jpg
     url: "https://portswigger.net/web-security/cross-site-scripting"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: <span class="thin">.</span> 3️⃣
     categories: [Insecure Direct Object Reference]
     image: port5.jpg
     url: "https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: <span class="thin">.</span> 4️⃣
     categories: [Security Misconfiguration]
     image: port6.jpg
     url: "https://owasp.org/Top10/A05_2021-Security_Misconfiguration/"
@@ -314,7 +314,7 @@ team-description: Nosso time é composto por profissionais altamente qualificado
 team:
   # Team Member
   - name: João Silva
-    tagline: Graphic Designer
+    tagline: Desenvoldedor, Cyber-Security specialist e Hacker Ético
     avatar: funci1.jpg
 
     # Social Links
@@ -327,7 +327,7 @@ team:
 
   # Team Member
   - name: Pedro Sousa
-    tagline: Developer
+    tagline: Cientista da Computação e Hacker Ético
     avatar: func2.jpg
 
     # Social Links
@@ -340,7 +340,7 @@ team:
 
   # Team Member
   - name: Tiago Ferreira
-    tagline: Hacker
+    tagline: Cyber-Security specialist
     avatar: func3.jpg
 
     # Social Links
@@ -353,7 +353,7 @@ team:
 
   # Team Member
   - name: Luís Young
-    tagline: Support Expert
+    tagline: Desenvoldedor e Hacker Ético
     avatar: func4.jpg
 
     # Social Links

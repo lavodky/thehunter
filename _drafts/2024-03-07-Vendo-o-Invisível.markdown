@@ -5,7 +5,7 @@ tagline: Single Page
 date: 2016-04-11 12:51
 categories: [Graphic Design]
 tags: [Endpoint Security, XDR]
-image: portfolio/port1.jpg
+image: /portfolio/port1.jpg
 ---
 
 Como o Falcon Exposure Management ajuda as equipes de segurança a reduzir o risco de extensões de navegador
