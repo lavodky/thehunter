@@ -167,19 +167,12 @@ portfolio-description: Sites e empresas frequentemente cometem erros como design
 # Portfolio Grid
 #
 portfolio-categories:
-  [cybersecurity-primer, Injection Flaws, broken-authentication, cross-site-scripting, Insecure Direct Object Reference, Security Misconfiguration, sensitive data exposure, missing function level accesscontrol, Cross Site Request Forgery]
+  [broken-authentication, cross-site-scripting, Insecure Direct Object Reference, Security Misconfiguration]
 portfolio:
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [cybersecurity-primer]
-    image: port1.jpg
-    url: "https://www.generativevalue.com/p/cybersecurity-primer"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Injection Flaws]
-    image: port2.jpg
-    url: "https://owasp.org/www-community/Injection_Flaws"
+
+  # Portfolio Item
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
@@ -206,22 +199,13 @@ portfolio:
     url: "https://owasp.org/Top10/A05_2021-Security_Misconfiguration/"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [sensitive data exposure]
-    image: port7.jpg
-    url: "https://www.apisec.ai/blog/sensitive-data-exposure"
+  
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [missing function level accesscontrol]
-    image: port8.jpg
-    url: "https://secromix.com/en/blog/missing-function-level-access-control-2/"
+
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Cross Site Request Forgery]
-    image: port9.jpg
-    url: "https://owasp.org/www-community/attacks/csrf"
+ 
 
 #####################################
 ##########  Core Features  ##########
@@ -294,14 +278,6 @@ testimonials:
     avatar: logo1.png
     cite: Queremos expressar nossa profunda gratidão à Ascese pelo excepcional suporte em cibersegurança. Graças à sua dedicação e profissionalismo, conseguimos garantir a segurança dos nossos sistemas e a confiança dos nossos clientes. Continuaremos a contar com a Ascese para manter nossos padrões de excelência e segurança online
     logo-img: logo1.png
-
-  # Client
-  - name: Petrotec Group
-    url: https://www.petrotec.eu/
-    url-text: petrotec.eu
-    avatar: logo2.png
-    cite: A Petrotec Group agradece imensamente à Ascese pelo comprometimento e eficiência na proteção de nossos dados e sistemas. A parceria com a Ascese tem sido crucial para assegurar a integridade das nossas operações tecnológicas, permitindo-nos focar em fornecer soluções inovadoras para nossos clientes
-    logo-img: codecanyon.png
 
   # Client
   - name: Science4you
@@ -397,29 +373,29 @@ pricing-description: Nossa empresa oferece uma tabela de preços clara e competi
 # Plan Personal
 #
 plan-personal-price: a partir de 1000 EUROS 
-plan-personal-offer-1-title: 01 PSD Pack
+plan-personal-offer-1-title: 1 análise simples
 plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-personal-offer-2-title: 100 Support Tickets
+plan-personal-offer-2-title: 1 relátorio de correção 
 plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-personal-url: "#"
 
 #
 # Plan Business
 #
-plan-business-price: a partir de 10000 EUROS
-plan-business-offer-1-title: 05 PSD Pack
+plan-business-price: a partir de 5000 EUROS
+plan-business-offer-1-title: análise detalhada 
 plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-business-offer-2-title: 1000 Support Tickets
+plan-business-offer-2-title: relátorio de correção e reunião com equipe de desenvolvimento  
 plan-business-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-business-url: "#"
 
 #
 # Plan Ultimate
 #
-plan-ultimate-price: $999
-plan-ultimate-offer-1-title: 10 PSD Pack
-plan-ultimate-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-offer-2-title: Support Unlimited
+plan-ultimate-price: a partir de 10000 EUROS
+plan-ultimate-offer-1-title: 3 especialistas em cyber-segurança disponiveis 24h para anteder 
+plan-ultimate-offer-1-info: todos os benefícios dos planos anteriores, treinamos a sua equipe, reuinão com equipe de desenvolvimento
+plan-ultimate-offer-2-title: Suporte ilimitado 
 plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-ultimate-url: "#"
 
