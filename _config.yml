@@ -66,8 +66,8 @@ header-secondary-button:
   url: .
 
 #
-# This is your email adress, contact From send here all emails From contact section
-# IMPORTANT: you can modify contact form From this static template, but now works contact form works with a free external server
+# This is your email adress, contact from send here all emails from contact section
+# IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
 email: your_email@example.com
@@ -122,8 +122,8 @@ mailchimp:
 #
 # Hi you now use Sera - OnePage Jekyll Theme created by Ohkimur
 #
-# Below are each section From the website in order From top to bottom
-# @TODO Edit each sections with your real information and each section From Sera will autocomplete with your information
+# Below are each section from the website in order from top to bottom
+# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
 #
 ####
 
@@ -377,7 +377,7 @@ plan-personal-price: de 1000 EUROS
 plan-personal-offer-1-title: 1 análise simples
 plan-personal-offer-1-info: O plano Personal é ideal para quem busca uma solução básica de segurança cibernética
 plan-personal-offer-2-title: 1 relátorio de correção 
-plan-personal-offer-2-info: Com um preço From de 1000 euros Per Month, este plano oferece uma análise simples para identificar possíveis vulnerabilidades, além de um relatório de correção com recomendações para melhorar a segurança
+plan-personal-offer-2-info: Com um preço from de 1000 euros Per Month, este plano oferece uma análise simples para identificar possíveis vulnerabilidades, além de um relatório de correção com recomendações para melhorar a segurança
 plan-personal-url: "#"
 
 #
