@@ -160,68 +160,68 @@ features:
 #####################################
 ############  Portfolio  ############
 #####################################
-portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-title: Falhas comuns
+portfolio-description: Sites e empresas frequentemente cometem erros como design desatualizado, navegação confusa, falta de otimização para dispositivos móveis, conteúdo desatualizado, carregamento lento e segurança inadequada, prejudicando a experiência do usuário e a credibilidade. Evitar essas falhas melhora a presença online e a satisfação dos visitantes.
 
 #
 # Portfolio Grid
 #
 portfolio-categories:
-  [Websites, Logo, Graphic Design, Development, Video, Photography]
+  [cybersecurity-primer, Injection Flaws, broken-authentication, cross-site-scripting, Insecure Direct Object Reference, Security Misconfiguration, sensitive data exposure, missing function level accesscontrol, Cross Site Request Forgery]
 portfolio:
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-01.jpg
-    url: "#"
+    categories: [cybersecurity-primer]
+    image: port1.jpg
+    url: "https://www.generativevalue.com/p/cybersecurity-primer"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Websites]
-    image: img-02.jpg
-    url: "#"
+    categories: [Injection Flaws]
+    image: port2.jpg
+    url: "https://owasp.org/www-community/Injection_Flaws"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Photography]
-    image: img-03.jpg
-    url: "#"
+    categories: [broken-authentication]
+    image: port3.jpg
+    url: "https://www.loginradius.com/blog/identity/what-is-broken-authentication/"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video, Photography]
-    image: img-04.jpg
-    url: "#"
+    categories: [cross-site-scripting]
+    image: port4.jpg
+    url: "https://portswigger.net/web-security/cross-site-scripting"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Development, Logo]
-    image: img-05.jpg
-    url: "#"
+    categories: [Insecure Direct Object Reference]
+    image: port5.jpg
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Development, Video]
-    image: img-06.jpg
-    url: "#"
+    categories: [Security Misconfiguration]
+    image: port6.jpg
+    url: "https://owasp.org/Top10/A05_2021-Security_Misconfiguration/"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-07.jpg
-    url: "#"
+    categories: [sensitive data exposure]
+    image: port7.jpg
+    url: "https://www.apisec.ai/blog/sensitive-data-exposure"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video]
-    image: img-08.jpg
-    url: "#"
+    categories: [missing function level accesscontrol]
+    image: port8.jpg
+    url: "https://secromix.com/en/blog/missing-function-level-access-control-2/"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Photography, Logo]
-    image: img-09.jpg
-    url: "#"
+    categories: [Cross Site Request Forgery]
+    image: port9.jpg
+    url: "https://owasp.org/www-community/attacks/csrf"
 
 #####################################
 ##########  Core Features  ##########
@@ -322,8 +322,8 @@ testimonials:
 #####################################
 ############# Our Blog ##############
 #####################################
-blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-title: Blog
+blog-description: Falhas mais comuns detalhadas 
 
 #####################################
 ############### Team ################
@@ -426,13 +426,12 @@ plan-ultimate-url: "#"
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-title: Contato
+contact-description: ...
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ascese
-footer-copyright-url: https://github.com/ohkimur
+footer-description: .
+footer-copyright-url: .
 footer-copyright-year: 2024
