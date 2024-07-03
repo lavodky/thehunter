@@ -260,7 +260,7 @@ core-features-right:
   # Feature
   - name: Automatização de Tarefas de Segurança
     description: Automatize tarefas de segurança
-    icon: pe-7s-robot
+    icon: pe-7s-config
 
   # Feature
   - name: Identificação e Remediação de Vulnerabilidades
