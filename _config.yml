@@ -145,17 +145,17 @@ features:
   # Feature
   - title: Avaliação de Vulnerabilidades e Pentest
     description: Realizamos avaliações de vulnerabilidades e testes de penetração (pentest) detalhados para identificar e corrigir falhas de segurança em suas redes, aplicativos e sistemas. Nossos especialistas simulam ataques reais para garantir que suas defesas estejam sempre à frente das ameaças.
-    icon: pe-7s-vector
+    icon: pe-7s-note2
 
   # Feature
   - title: Monitoramento e Resposta a Incidentes 24/7
     description: Oferecemos um serviço de monitoramento contínuo e resposta a incidentes, operando 24 horas por dia, 7 dias por semana. Nossa equipe de segurança está sempre alerta para detectar e responder rapidamente a qualquer atividade suspeita, minimizando o impacto de possíveis incidentes de segurança.
-    icon: pe-7s-help2
+    icon: pe-7s-alarm
 
   # Feature
   - title: Treinamento em Segurança Cibernética
     description: Capacitamos sua equipe com treinamentos em segurança cibernética personalizados, abordando as melhores práticas e técnicas de defesa. Nossos cursos abrangem desde a conscientização sobre phishing até a implementação de políticas de segurança robustas, fortalecendo a postura de segurança da sua organização.
-    icon: pe-7s-airplay
+    icon: pe-7s-study
 
 #####################################
 ############  Portfolio  ############
@@ -236,22 +236,22 @@ core-features-left:
   # Feature
   - name: Gestão de Ativos
     description: CyberSecurity Attack Surface Management (CSAM)
-    icon: pe-7s-light
+    icon: pe-7s-key
 
   # Feature
   - name: Gerenciamento de Vulnerabilidades e Configuração
     description: Gerenciamento, Detecção e Resposta a Vulnerabilidades
-    icon: pe-7s-drop
+    icon: pe-7s-shield
 
   # Feature
   - name: Remediação de Riscos
     description: Avaliação e Remediação Personalizada
-    icon: pe-7s-coffee
+    icon: pe-7s-hammer
 
   # Feature
   - name: Detecção e Resposta a Ameaças
     description: Detecção e Resposta na Nuvem
-    icon: pe-7s-smile
+    icon: pe-7s-search
 
 #
 # Core Features Right
@@ -260,27 +260,28 @@ core-features-right:
   # Feature
   - name: Automatização de Tarefas de Segurança
     description: Automatize tarefas de segurança
-    icon: pe-7s-wine
+    icon: pe-7s-robot
 
   # Feature
   - name: Identificação e Remediação de Vulnerabilidades
     description: Identifique as vulnerabilidades que realmente importam
-    icon: pe-7s-monitor
+    icon:  pe-7s-attention
 
   # Feature
   - name: Gestão Proativa de Cargas de Trabalho
     description: Ajude as equipes de segurança e desenvolvimento 
+    icon: pe-7s-refresh
 
   # Feature
   - name: Documentação e Redirecionamento de Informações
     description: Toda atividade é documentada e relatada detalhadamente
-    icon: pe-7s-camera
+    icon: pe-7s-note2
 
 #####################################
 ########### Testimonials ############
 #####################################
-testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
+testimonials-title: Testemunhos
+testimonials-description: Testemunhos de algumas empresas que já ajudamos
 
 #
 # Testimonials
@@ -292,7 +293,7 @@ testimonials:
     url-text: superbockgroup.com
     avatar: logo1.png
     cite: Queremos expressar nossa profunda gratidão à Ascese pelo excepcional suporte em cibersegurança. Graças à sua dedicação e profissionalismo, conseguimos garantir a segurança dos nossos sistemas e a confiança dos nossos clientes. Continuaremos a contar com a Ascese para manter nossos padrões de excelência e segurança online
-    logo-img: themeforest.png
+    logo-img: logo1.png
 
   # Client
   - name: Petrotec Group
