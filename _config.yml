@@ -58,23 +58,23 @@ headter-tagline: Soluções de Segurança e Penteste
 # Focus Buttons
 header-focus-button:
   title: Proteja-se agora
-  url: https://themeforest.net/collections/6069390-sera
+  url: .
 
 # Secondary Buttons
 header-secondary-button:
   title: Descubra Mais
-  url: http://themeforest.net/user/ohkimur
+  url: .
 
 #
-# This is your email adress, contact from send here all emails from contact section
-# IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
+# This is your email adress, contact A partir send here all emails A partir contact section
+# IMPORTANT: you can modify contact form A partir this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
 email: your_email@example.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
+banner-link: "#"
 
 ####################################
 ######  Global Social Links   ######
@@ -93,17 +93,18 @@ vimeo: "#"
 #
 # About Blog Author Widget
 #
-# about-widget:
-#  author-avatar: avatar-02.jpg
-#  author-name: John Doe
-#  author-tagline: Blog Author
-#  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-#  author-social-links:
-#    youtube: "#"
-#    pinterest: "#"
-#    facebook: "#"
-#    twitter: "#"
-#    google-plus: "#"
+ about-widget:
+  author-avatar: func4.jpg
+  author-name: Luís Young
+  author-tagline: Autor
+  author-info: Pesquisador de Cyber-Segurança
+  author-social-links:
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    github: "#"
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
@@ -121,8 +122,8 @@ mailchimp:
 #
 # Hi you now use Sera - OnePage Jekyll Theme created by Ohkimur
 #
-# Below are each section from the website in order from top to bottom
-# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
+# Below are each section A partir the website in order A partir top to bottom
+# @TODO Edit each sections with your real information and each section A partir Sera will autocomplete with your information
 #
 ####
 
@@ -273,25 +274,25 @@ testimonials-description: Testemunhos de algumas empresas que já ajudamos
 testimonials:
   # Client
   - name: Super Bock Group
-    url: https://superbockgroup.com/
-    url-text: superbockgroup.com
-    avatar: logo1.png
+    #url: https://superbockgroup.com/
+    #url-text: superbockgroup.com
+    #avatar: logo1.png
     cite: Queremos expressar nossa profunda gratidão à Ascese pelo excepcional suporte em cibersegurança. Graças à sua dedicação e profissionalismo, conseguimos garantir a segurança dos nossos sistemas e a confiança dos nossos clientes. Continuaremos a contar com a Ascese para manter nossos padrões de excelência e segurança online
     logo-img: logo1.png
 
   # Client
   - name: Science4you
-    url: https://www.science4you.pt/
-    url-text: science4you.pt
-    avatar: avatar-03.jpg
+    #url: https://www.science4you.pt/
+    #url-text: science4you.pt
+    #avatar: avatar-03.jpg
     cite: Gostaríamos de agradecer à Ascese pelo excelente serviço de cibersegurança que tem nos proporcionado. A tranquilidade de saber que nossos dados e operações estão seguros nos permite continuar a inovar e oferecer brinquedos educativos de qualidade para as crianças. Obrigado, Ascese, por ser um pilar de confiança para nossa empresa
     logo-img: logo3.png
 
   # Client
   - name: Sanitana
-    url: https://www.sanitana.pt/pt/
-    url-text: sanitana.pt
-    avatar: avatar-04.jpg
+   # url: https://www.sanitana.pt/pt/
+   # url-text: sanitana.pt
+   # avatar: avatar-04.jpg
     cite: Nosso sincero agradecimento à Ascese pela parceria sólida e pela proteção contínua que oferece aos nossos sistemas. A segurança proporcionada pela Ascese é fundamental para que possamos focar no desenvolvimento e na oferta de produtos de alta qualidade para os nossos clientes. Estamos confiantes de que, com a Ascese ao nosso lado, continuaremos a crescer com segurança e eficiência
     logo-img: logo4.png
 
@@ -372,31 +373,31 @@ pricing-description: Nossa empresa oferece uma tabela de preços clara e competi
 #
 # Plan Personal
 #
-plan-personal-price: a partir de 1000 EUROS 
+plan-personal-price: de 1000 EUROS 
 plan-personal-offer-1-title: 1 análise simples
-plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-personal-offer-1-info: O plano Personal é ideal para quem busca uma solução básica de segurança cibernética
 plan-personal-offer-2-title: 1 relátorio de correção 
-plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-personal-offer-2-info: Com um preço a partir de 1000 euros por mês, este plano oferece uma análise simples para identificar possíveis vulnerabilidades, além de um relatório de correção com recomendações para melhorar a segurança
 plan-personal-url: "#"
 
 #
 # Plan Business
 #
-plan-business-price: a partir de 5000 EUROS
+plan-business-price: de 5000 EUROS
 plan-business-offer-1-title: análise detalhada 
-plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-business-offer-1-info: O plano Business é voltado para empresas que necessitam de uma abordagem mais aprofundada
 plan-business-offer-2-title: relátorio de correção e reunião com equipe de desenvolvimento  
-plan-business-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-business-offer-2-info:  Por 5000 euros por mês, você terá uma análise detalhada das suas necessidades de segurança, um relatório de correção e uma reunião com a equipe de desenvolvimento para discutir as melhorias a serem implementadas.
 plan-business-url: "#"
 
 #
 # Plan Ultimate
 #
-plan-ultimate-price: a partir de 10000 EUROS
+plan-ultimate-price: de 10000 EUROS
 plan-ultimate-offer-1-title: 3 especialistas em cyber-segurança disponiveis 24h para anteder 
 plan-ultimate-offer-1-info: todos os benefícios dos planos anteriores, treinamos a sua equipe, reuinão com equipe de desenvolvimento
 plan-ultimate-offer-2-title: Suporte ilimitado 
-plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-ultimate-offer-2-info: O plano Ultimate é a solução mais completa, perfeita para organizações que demandam máxima proteção.
 plan-ultimate-url: "#"
 
 #####################################
