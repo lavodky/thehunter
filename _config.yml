@@ -43,7 +43,7 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Ascese: Elevando a Segurança Digital com Soluções de Penteste de Classe Mundial
+title: Ascese. Elevando a Segurança Digital com Soluções de Penteste de Classe Mundial
 # Website language
 lang: pt-BR
 # Header Title
@@ -129,7 +129,7 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
+about-title: Bem-vindo à Ascese
 about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
 
 #####################################
