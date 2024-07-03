@@ -43,11 +43,11 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Ascese: Elevando a Segurança Digital com Soluções de Penteste de Classe Mundial
 # Website language
-lang: en-US
+lang: pt-BR
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Proteja-se do <strong>imprevisto.</strong>
 # Header Tagline
 headter-tagline: We Always
 
@@ -57,12 +57,12 @@ headter-tagline: We Always
 
 # Focus Buttons
 header-focus-button:
-  title: Download Now
+  title: Proteja-se agora
   url: https://themeforest.net/collections/6069390-sera
 
 # Secondary Buttons
 header-secondary-button:
-  title: Discover More
+  title: Descubra Mais
   url: http://themeforest.net/user/ohkimur
 
 #
